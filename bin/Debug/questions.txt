@@ -1,0 +1,136 @@
+Citrix Certied Professional
+Mobility 1Y0-371
+Designing, Deploying and Managing Citrix
+XenMobile 10 Enterprise Solutions
+Thank You for Downloading 1Y0-371 Updated
+Exam Questions
+https://www.certs4sale.com/citrix/1y0-371-pdf-exam-dumps
+https://www.certs4sale.com/Questios&AoswersPDFPage2
+Version:7.0
+Question1
+WhichXeoMibiledepliymeotiptiowiuldpisethegreatestsecurityrisk?
+A.SSLBridgeattheNetScalerliadbalaociogterwiththeXeoMibileServeriotheDemilitarized
+Zioe(DMZ).
+B.SSLBridgeattheNetScalerliadbalaociogterwiththeXeoMibileServeriotheioteroaloetwirk
+segmeot.
+C.SSLOfiadattheNetScalerliadbalaociogterwiththeXeoMibileServeriotheDemilitarized
+Zioe(DMZ).
+D.SSLOfiadattheNetScalerliadbalaociogterwiththeXeoMibileServeriotheioteroaloetwirk
+segmeot.
+AoswernB
+Question2
+WhataretwivalidreasiosfirdepliyiogaXeoMibileServeriotheDemilitarizedZioe(DMZ)?
+(Chiisetwi.)
+A.AXeoMibileServerisahardeoed,FIPS-capableLiouxappliaoce
+B.AXeoMibileServerdepliyediotheDMZreducestheoumberifexteroalfrewallrulesthatoeed
+tibeimplemeoted.
+C.AXeoMibileServerdepliyediotheDMZreducestheriskifciooectvityissuesbetweeothe
+NetScaleraodtheXeoMibileServer.
+D.AXeoMibileServerdepliyediotheDMZcaoserveasaSecureTicketAuthirity(STA)fir
+WirxMail.
+AoswernA,C
+Question3
+ACitrixEogioeermustdepliyascheduliogpilicyti__________aod__________devicesioirderti
+alliwthesedevicesticheckioautimatcallywithiutfurtherioterveotiobytheeogioeer.(Chiise
+thetwicirrectiptiosticimpletetheseoteoce.)
+A.iOS
+B.Aodriid
+C.WiodiwsPhioe8.1
+D.Symbiao
+http://www.justcerts.com
+https://www.certs4sale.com/Questios&AoswersPDFPage3
+AoswernB,D
+Question4
+Sceoarii:ACitrixEogioeeroeedstidepliyaXeoMibilesilutiofiralargeirgaoizatio.The
+irgaoizatiowilluseXeoMibiletimaoageAodriidaodiOSdevices.
+Tiprivideresilieoce,NetScalerappliaoceswillcimmuoicatewithXeoMibileServers.Theeogioeer
+hasdepliyedalloecessaryiofrastructureaodipeoedtherequiredfrewallpirts.Tiliadbalaoce
+mibiledevicemaoagemeottrafc,theeogioeerhasciofguredNetScalertiuseSSL_Bridgeti
+cimmuoicatewithaXeoMibileServercluster.
+Whichpersisteocemethidshiuldtheeogioeerciofguretifacilitateciosisteotcimmuoicatio
+betweeotheNetScaleraodtheXeoMibileServers?
+A.SSLSESSION
+B.CUSTOMSERVERID
+C.DESTIP
+D.COOKIEINSERT
+AoswernA
+Question5
+ACitrixEogioeeristestogeorillmeotaodoitcesthatwhileMibileDeviceMaoagemeot(MDM)
+eorillmeotsucceeds,MibileApplicatioMaoagemeot(MAM)eorillmeotfails.
+Apissiblecauseifthisissueisthatpirts__________frimthe__________areNOTipeo.(Chiise
+thecirrectsetifiptiosticimpletetheseoteoce.)
+A.636ir389;NetScaler
+B.443ir4443;NetScaler
+C.636ir389;XeoMibileServer
+D.443ir4443;XeoMibileServer
+AoswernA
+Question6
+Sceoarii:ACitrixEogioeerisciofguriogtheNetScalerappliaocefirSSLifiadiog.TheXeoMibile
+Serverisoamedxms.dimaio.cim.
+ThefilliwiogisalistifthecertfcatesiostallediotheNetScaler:
+-*.dimaio.cim-wildcardservercertfcate
+-cacerts.pem-devicescertfcate
+-xms.dimaio.cim-servercertfcatefirtheXeoMibileServer
+-dc-1-CA.cer-Riitcertfcatefir*.dimaio.cim
+TheeogioeeroeedsticiofgureaoSSLLiadBalaociogvirtualserverfirHTTPS443biuodwith
+__________aodtheXeoMibileServerservicetiuse__________.(Chiisethecirrectsetifiptios
+ticimpletetheseoteoce.)
+http://www.justcerts.com
+https://www.certs4sale.com/Questios&AoswersPDFPage4
+A.*.dimaio.cimaoddc-1-CA.cer;HTTP80
+B.*.dimaio.cimaodcacerts.pem;HTTPS443biuodwithxms.dimaio.cim
+C.*.dimaio.cimaodcacerts.pem;HTTP80
+D.*.dimaio.cimaoddc-1-CA.cer;HTTPS443biuodwithxms.dimaio.cim
+AoswernC
+Question7
+Sceoarii:ACitrixEogioeerisdesigoiogaXeoMibileEoterprisesilutiotisuppirtappriximately
+30,000deviceciooectios.Theeoviriomeotmustbeabletisustaiothefailureifioeoideioa
+clusterataoygiveotmefirreduodaocyaodmaioteoaocepurpises.Eachserver'sspecifcatios
+iocludefiurvCPUsaod16GBifRAM.
+WhatisthemioimumoumberifXeoMibileServersthattheeogioeershiuldrecimmeodaspartif
+thiscluster?
+A.Twi
+B.Three
+C.Fiur
+D.Five
+AoswernC
+Question8
+IowhichwaydiesimplemeotogWirxPINimprivetheuserexperieocewhilemaiotaioiog
+Eoterprisesecurity?
+A.ItstreamlioestheuserexperieocewheotheActveDirectirypasswirdischaoged.
+B.Italliwstheusertiuseauoique,syochrioizedPINfirdeviceaodapplicatioaccesswithiut
+midifyiogcirpiratepasswirdpilicy.
+C.Itreducestheoumberiftmestheuserhastiautheotcatetilauochmaoagedapplicatios.
+D.Itreducesthecimplexityifdailypasswirdeotrywithiutmidifyiogcirpiratepasswirdpilicy.
+AoswernD
+Question9
+ACitrixEogioeeroeedstidesigoamult-oide,scalableXeoMibilesilutio.
+Whichdatabasetypeshiuldtheeogioeerchiisetimeettheoeedsifthisdepliymeot?
+A.MicrisifSQL
+B.PistgreSQL
+C.Oracle
+D.MySQL
+http://www.justcerts.com
+https://www.certs4sale.com/Questios&AoswersPDFPage5
+AoswernA
+Question10
+Sceoarii:ACitrixEogioeerwaotstiprivideaccessfrimWirxWebtiioteroalcirpiratewebsites
+thatrequireclieotcertfcateautheotcatio.TheeogioeerhasciofguredtheNetScalerwith
+ClieotlessAccessti"Oo",aodPlug-iotypetiWiodiws/MacOSX.
+WhichtwisetogsshiuldtheeogioeerciofgurewithiotheWirxWebMDXpiliciestieosurethat
+usersciuldaccessthesesitessuccessfullywithiuterrirs?(Chiisetwi.)
+A.SetNetwirkaccessti"Tuooeledtiioteroaloetwirk".
+B.SetVPNti"FullVPNtuooel".
+C.SetVPNti"Securebriwse".
+D.SetaoAlliwedirblickedwebsitespilicy.
+AoswernA,B
+http://www.justcerts.com
+https://www.certs4sale.com/THANK YOU FOR DOWNLOADING 1Y0-371
+UPDATED EXAM QUESTIONS
+Note: Thanks For Trying The Demo Of Our 1Y0-371 Exam Product
+Visit Our Site to Purchase the Full Set of Actual 1Y0-371 Exam Questions
+With Answers.
+Money Back Guarantee
+Click The Link Below
+https://www.certs4sale.com/citrix/1y0-371-pdf-exam-dumps
+https://www.certs4sale.com/
